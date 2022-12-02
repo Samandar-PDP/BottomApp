@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BottomApp</string>
+    <string name="title_home">All</string>
+    <string name="title_dashboard">Prog Lan</string>
+    <string name="title_notifications">Speaking Lan</string>
+</resources>
